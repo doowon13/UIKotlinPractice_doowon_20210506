@@ -1,0 +1,2 @@
+rootProject.name = "UIKotlinPractice_doowon_20210506"
+include ':app'
